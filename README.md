@@ -1,0 +1,1 @@
+This Repository is a scalable and maintainable test automation framework designed for Ecommerce Site testing. It includes reusable components, structured test layers, and supports end-to-end test scenarios such as product selection, cart validation, checkout, and order confirmation
